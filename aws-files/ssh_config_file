@@ -1,4 +1,5 @@
 Host git-codecommit.*.amazonaws.com
-  User APKAXIXFJTQEW2ZCTWED
-  IdentityFile ~/.ssh/vpro-codecommit_rsa
-
+  User APKAS435Z27C46P23QG6
+  IdentityFile ~/.ssh/id_rsa
+  HostKeyAlgorithms ssh-rsa,ssh-dss
+  PubkeyAcceptedKeyTypes ssh-rsa,ssh-dss
